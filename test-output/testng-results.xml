@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-04T13:41:22 IST" name="Suite" finished-at="2024-08-04T13:41:55 IST" duration-ms="32722">
+    <groups>
+    </groups>
+    <test started-at="2024-08-04T13:41:22 IST" name="Test" finished-at="2024-08-04T13:41:55 IST" duration-ms="32722">
+      <class name="TestSce.TestMethod_TendableSearch">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestSce.TestMethod_TendableSearch@7dcf94f8]" started-at="2024-08-04T13:41:22 IST" name="beforeTest" finished-at="2024-08-04T13:41:34 IST" duration-ms="11402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyTendableHomePage()[pri:0, instance:TestSce.TestMethod_TendableSearch@7dcf94f8]" started-at="2024-08-04T13:41:34 IST" name="verifyTendableHomePage" finished-at="2024-08-04T13:41:47 IST" duration-ms="13365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTendableHomePage -->
+        <test-method signature="verifyTendableConatctUsPage()[pri:1, instance:TestSce.TestMethod_TendableSearch@7dcf94f8]" started-at="2024-08-04T13:41:47 IST" name="verifyTendableConatctUsPage" finished-at="2024-08-04T13:41:54 IST" duration-ms="7526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTendableConatctUsPage -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestSce.TestMethod_TendableSearch@7dcf94f8]" started-at="2024-08-04T13:41:54 IST" name="afterTest" finished-at="2024-08-04T13:41:55 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestSce.TestMethod_TendableSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
